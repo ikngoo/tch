@@ -4,7 +4,7 @@ var place_data=[
    place: "臺北市",
    low: 16,
    high: 24,
-   weather: "\img\Taipei.jpg"
+   weather: "https://github.com/ikngoo/tch/blob/gh-pages/img/Taipei.jpg"
   },
 
   {
