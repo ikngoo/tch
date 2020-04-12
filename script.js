@@ -4,7 +4,7 @@ var place_data=[
    place: "臺北市",
    low: 16,
    high: 24,
-   weather: "Rainy"
+   weather: "\img\Taipei.jpg"
   },
 
   {
