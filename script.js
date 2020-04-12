@@ -4,7 +4,7 @@ var place_data=[
    place: "臺北市",
    low: 2107,
    high: "  letters",
-   weather: "img/Taipei.jpg"
+   weather: "img/wordcloud_TP.png"
   },
 
   {
@@ -12,7 +12,7 @@ var place_data=[
    place: "新北市",
    low: 2578,
    high: "  letters",
-   weather: "Rainy"
+   weather: "img/wordcloud_NTP.png"
   },
 
   {
