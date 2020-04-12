@@ -35,15 +35,15 @@ path:hover {
   top: 20px;
   color: white;
   font-size: 30px;
+  background-image: url("https://github.com/ikngoo/tch/raw/gh-pages/img/stream.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center 115px;
 }
 
 .title_area h2 {
     margin: 0;
     font-size: 20px;
-	background-image: url("https://github.com/ikngoo/tch/raw/gh-pages/img/stream.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center 115px;
 }
 
 h1 span {
@@ -73,5 +73,5 @@ hr {
   max-width: 360px;
   height: auto;
   margin: 0;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: white;
 }
