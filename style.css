@@ -31,6 +31,11 @@ path:hover {
   font-size: 30px;
 }
 
+.title_area h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
 h1 span {
   color: #B99362;
   padding-left: 10px;
@@ -43,9 +48,22 @@ hr {
   border-bottom: solid 2px white;
 }
 
+.forcast {
+  filter: drop-shadow(8px 8px 10px gray);
+  border-radius: 5px;
+}
+
 .forcast h2, .forcast h4, .forcast h5 {
   margin: 0;
 }
 .forcast h2 {
   margin-top: 20px;
+}
+
+.forcast img {
+  transition: 0.5s;
+  max-width: 360px;
+  height: auto;
+  margin: 0;
+  background-color: white;
 }
