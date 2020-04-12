@@ -10,7 +10,7 @@ body {
   background-color: #222;
 }
 
-body p {
+p {
   color: #B99362;
 }
 
@@ -60,9 +60,6 @@ hr {
 
 .forcast h2, .forcast h4, .forcast h5 {
   margin: 0;
-}
-.forcast h2 {
-  margin-top: 20px;
 }
 
 .forcast img {
