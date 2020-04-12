@@ -41,6 +41,9 @@ path:hover {
     margin: 0;
     font-size: 20px;
 	background-image: url("img/stream.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center 95%;
 }
 
 h1 span {
