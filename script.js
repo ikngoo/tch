@@ -44,7 +44,7 @@ var place_data=[
    place: "基隆市",
    low: 385,
    high: "  letters",
-   weather: "Rainy"
+   weather: "wordcloud_KeeLung"
   },
 
   {
