@@ -48,7 +48,7 @@ var place_data=[
   },
 
   {
-   tag: "taoyuan_country",
+   tag: "taoyuan_county",
    place: "桃園市",
    low: 1085,
    high: "  letters",
@@ -64,7 +64,7 @@ var place_data=[
   },
 
   {
-   tag: "hsinchu_country",
+   tag: "hsinchu_county",
    place: "新竹縣",
    low: 331,
    high: "  letters",
@@ -72,7 +72,7 @@ var place_data=[
   },
 
   {
-   tag: "miaoli_country",
+   tag: "miaoli_county",
    place: "苗栗縣",
    low: 200,
    high: "  letters",
@@ -80,7 +80,7 @@ var place_data=[
   },
 
   {
-   tag: "changhua_country",
+   tag: "changhua_county",
    place: "彰化縣",
    low: 512,
    high: "  letters",
@@ -88,7 +88,7 @@ var place_data=[
   },
 
   {
-   tag: "nantou_country",
+   tag: "nantou_county",
    place: "南投縣",
    low: 196,
    high: "  letters",
@@ -96,7 +96,7 @@ var place_data=[
   },
 
   {
-   tag: "yunlin_country",
+   tag: "yunlin_county",
    place: "雲林縣",
    low: 178,
    high: "  letters",
@@ -112,7 +112,7 @@ var place_data=[
   },
 
   {
-   tag: "chiayi_country",
+   tag: "chiayi_county",
    place: "嘉義縣",
    low: 155,
    high: "  letters",
@@ -120,7 +120,7 @@ var place_data=[
   },
 
   {
-   tag: "pingtung_country",
+   tag: "pingtung_county",
    place: "屏東縣",
    low: 247,
    high: "  letters",
@@ -128,7 +128,7 @@ var place_data=[
   },
 
   {
-   tag: "yilan_country",
+   tag: "yilan_county",
    place: "宜蘭縣",
    low: 172,
    high: "  letters",
@@ -136,7 +136,7 @@ var place_data=[
   },
 
   {
-   tag: "hualien_country",
+   tag: "hualien_county",
    place: "花蓮縣",
    low: 133,
    high: "  letters",
@@ -144,7 +144,7 @@ var place_data=[
   },
 
   {
-   tag: "taitung_country",
+   tag: "taitung_county",
    place: "臺東縣",
    low: 57,
    high: "  letters",
@@ -152,7 +152,7 @@ var place_data=[
   },
 
   {
-   tag: "penghu_country",
+   tag: "penghu_county",
    place: "澎湖縣",
    low: 15,
    high: "  letters",
@@ -160,7 +160,7 @@ var place_data=[
   },
 
   {
-   tag: "kinmen_country",
+   tag: "kinmen_county",
    place: "金門縣",
    low: 13,
    high: "  letters",
@@ -168,7 +168,7 @@ var place_data=[
   },
 
   {
-   tag: "lienchiang_country",
+   tag: "lienchiang_county",
    place: "連江縣",
    low: 6,
    high: "  letters",
