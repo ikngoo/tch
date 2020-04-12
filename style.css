@@ -64,8 +64,9 @@ hr {
 
 .forcast img {
   transition: 0.5s;
+  border-radius: 5px;
   max-width: 360px;
   height: auto;
   margin: 0;
-  background-color: white;
+  background-color: rgba(241, 241, 241, 0.3);
 }
