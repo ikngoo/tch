@@ -3,8 +3,8 @@
 }
 
 svg {
-  height: 60vh;
-  width: 70vh
+  height: 70vh;
+  width: 70vh;
 }
 
 body {
@@ -40,6 +40,7 @@ path:hover {
 .title_area h2 {
     margin: 0;
     font-size: 20px;
+	background-image: url("img/stream.png");
 }
 
 h1 span {
@@ -69,5 +70,5 @@ hr {
   max-width: 360px;
   height: auto;
   margin: 0;
-  background-color: rgba(252, 252, 252, 0.3);
+  background-color: rgba(255, 255, 255, 0.3);
 }
