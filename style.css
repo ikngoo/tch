@@ -3,7 +3,7 @@
 }
 
 svg {
-  height: 65vh;
+  height: 60vh;
 }
 
 body {
@@ -68,5 +68,5 @@ hr {
   max-width: 360px;
   height: auto;
   margin: 0;
-  background-color: rgba(250, 250, 250, 0.3);
+  background-color: rgba(252, 252, 252, 0.3);
 }
