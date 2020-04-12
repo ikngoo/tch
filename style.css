@@ -5,6 +5,7 @@
 svg {
   height: 70vh;
   width: 70vh;
+  float: left;
 }
 
 body {
@@ -30,9 +31,7 @@ path:hover {
 }
 
 .title_area {
-  position: absolute;
-  right: 20px;
-  top: 20px;
+  float: right;
   color: white;
   font-size: 30px;
   background-image: url("https://github.com/ikngoo/tch/raw/gh-pages/img/stream.png");
