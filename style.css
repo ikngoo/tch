@@ -9,24 +9,24 @@ svg {
 }
 
 body {
-  background-color: #222;
+  background-color: #BDBDFD;
 }
 
 footer {
-  color: #B99362;
+  color: #01FFC3;
   font-size: 15px;
 }
 
 
 path {
-  stroke: white;
+  stroke: #EDDAFD;
   fill: transparent;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   cursor: pointer;
 }
 path:hover {
-  fill: #B99362;
+  fill: #01FFC3;
   -webkit-transform: translate(-5px, -5px);
           transform: translate(-5px, -5px);
 }
@@ -55,7 +55,7 @@ hr {
   width: 100px;
   margin-left: 0;
   border: none;
-  border-bottom: solid 2px white;
+  border-bottom: solid 2px #EDDAFD;
 }
 
 .forcast {
@@ -79,13 +79,13 @@ hr {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black;
+  border-bottom: 1px dotted #44329D;
 }
 
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
-  background-color: black;
+  background-color: #44329D;
   color: #fff;
   text-align: center;
   border-radius: 6px;
