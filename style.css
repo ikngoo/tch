@@ -55,7 +55,7 @@ hr {
   width: 100px;
   margin-left: 0;
   border: none;
-  border-bottom: solid 2px #EDDAFD;
+  border-bottom: solid 2px #BC75F9;
 }
 
 .forcast {
@@ -79,12 +79,12 @@ hr {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted #44329D;
+  border-bottom: 1.5px dotted #44329D;
 }
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  width: 200px;
   background-color: #44329D;
   color: #fff;
   text-align: center;
